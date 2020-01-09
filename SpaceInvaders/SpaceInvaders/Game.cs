@@ -11,6 +11,8 @@ namespace SpaceInvaders
     class Game
     {
 
+        public SpaceShip playerShip;
+
         #region GameObjects management
         /// <summary>
         /// Set of all game objects currently in the game
@@ -86,6 +88,8 @@ namespace SpaceInvaders
         private Game(Size gameSize)
         {
             this.gameSize = gameSize;
+            Bitmap imageShip = new Bitmap("../../Resources/ship3.png");
+            this.playerShip = new SpaceShip(new Vecteur2D(gameSize.Width / 2, gameSize.Height), 3, imageShip);
         }
 
         #endregion
@@ -109,6 +113,7 @@ namespace SpaceInvaders
         /// <param name="g">Graphics to draw in</param>
         public void Draw(Graphics g)
         {
+            playerShip.Draw(this, g);
             foreach (GameObject gameObject in gameObjects)
                 gameObject.Draw(this, g);       
         }

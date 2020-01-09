@@ -6,3 +6,11 @@ C:\Users\ambou\OneDrive\Bureau\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceIn
 C:\Users\ambou\OneDrive\Bureau\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.cache
 C:\Users\ambou\OneDrive\Bureau\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
 C:\Users\ambou\OneDrive\Bureau\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+C:\Users\a480803\Desktop\spaceinvaders-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\Users\a480803\Desktop\spaceinvaders-master\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\Users\a480803\Desktop\spaceinvaders-master\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\Users\a480803\Desktop\spaceinvaders-master\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.GameForm.resources
+C:\Users\a480803\Desktop\spaceinvaders-master\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+C:\Users\a480803\Desktop\spaceinvaders-master\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\Users\a480803\Desktop\spaceinvaders-master\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+C:\Users\a480803\Desktop\spaceinvaders-master\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
